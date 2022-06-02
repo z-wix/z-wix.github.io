@@ -3,8 +3,8 @@ title: Zack
 subtitle: Wixom
 email: zackwixom@gmail.com
 description: Place to show my personal projects.
-baseurl: "/blog" # the subpath of your site, e.g. /blog if using github pages (needed if hosting in a subdirectory) 
-url: #https://z-wix.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog if using github pages (needed if hosting in a subdirectory) 
+url: https://z-wix.github.io # the base hostname & protocol for your site
 author: Zack Wixom
 street_address:
 city: Lehi
