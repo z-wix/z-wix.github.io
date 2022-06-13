@@ -6,10 +6,13 @@ description: Place to show my personal projects.
 baseurl: "/home" # the subpath of your site, e.g. /blog if using github pages (needed if hosting in a subdirectory) 
 url: # the base hostname & protocol for your site
 author: Zack Wixom
-street_address:
+street_address: 1234 Somewhere Road
 city: Lehi
 state: UT
-about-text: Senior Data Analyst that loves data and visualizations. I use R, Python, SQl, and Tableau.
+zip_code: 55555
+country: United States of America
+phone: (123) 456-7890
+#about-text: Senior Data Analyst that loves data and visualizations. I use R, Python, SQl, and Tableau.
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -23,7 +26,7 @@ socials:
   GitHub: https://github.com/z-wix
   Instagram: https://www.instagram.com/z.wixom/
   LinkedIn: https://www.linkedin.com/in/zackwixom/
-  Twitch: 
+  #Twitch: 
 
 # build settings
 markdown: kramdown
