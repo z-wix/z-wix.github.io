@@ -23,10 +23,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
+  email: zackwixom@gmail.com
   GitHub: https://github.com/z-wix
   Instagram: https://www.instagram.com/z.wixom/
   LinkedIn: https://www.linkedin.com/in/zackwixom/
-  #Twitch: 
+  Twitch: https://www.twitch.tv/z_wix
+  Spotify: https://open.spotify.com/user/zwixom?si=7cc9955c336c435a
 
 # build settings
 markdown: kramdown
