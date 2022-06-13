@@ -12,7 +12,7 @@ state: UT
 zip_code: 55555
 country: United States of America
 phone: (123) 456-7890
-#about-text: Senior Data Analyst that loves data and visualizations. I use R, Python, SQl, and Tableau.
+about-text: Senior Data Analyst that loves data and visualizations. I use R, Python, SQl, and Tableau.
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
