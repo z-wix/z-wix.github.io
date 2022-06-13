@@ -3,7 +3,7 @@ title: Zack
 subtitle: Wixom
 email: zackwixom@gmail.com
 description: Place to show my personal projects.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog if using github pages (needed if hosting in a subdirectory) 
+baseurl: "/home" # the subpath of your site, e.g. /blog if using github pages (needed if hosting in a subdirectory) 
 url: # the base hostname & protocol for your site
 author: Zack Wixom
 street_address:
