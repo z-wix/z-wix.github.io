@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-image: assets/images/stormtroop.jpg
+image: assets/images/stormtroop.jpeg
 nav-menu: true
 ---
 
